@@ -11,14 +11,14 @@ This project is composed of a small scene graph robot and a control panel that c
 ### Output Display
 1) Initial robot and control panel
 <p align="center">
-  <img src="https://github.com/HarrietKira/Demos-for-Computer-Graphics/blob/main/Scene%20Graph%20Robot/Images/1.png">
+  <img src="Images/1.png">
 </p>
 
 2) Perform Transformation
 Click on the widget item and modify the parameters on above, the robot would be updated repectively. <br/>
 e.g.1: Rotate Robot Head by 10 Degree <br/>
 <p align="center">
-  <img src="https://github.com/HarrietKira/Demos-for-Computer-Graphics/blob/main/Scene%20Graph%20Robot/Images/2.png">
+  <img src="Images/2.png">
 </p>
 
 Note that each node are assigned to only one transformation type, and it is only activated by this one particular transformation.
